@@ -319,3 +319,5 @@ G.idea/sonarlint/issuestore/c/e/ce7799643a95553c6bee1d403d6cb738907a7f2c,6\5\65
 Q.idea/sonarlint/securityhotspotstore/3/b/3befc84e4f8c4bde88ad8ef464ae72214bd9da5d,f\4\f4a38f48a37ac16b126b922410c6a1db92e9b66a
 w
 G.idea/sonarlint/issuestore/7/8/787851ba7ea2dc349880e2b378a4b956c0687ded,9\5\95ac24cb485ab04dd724e4a76ea6dbb1922aeed4
+t
+Ddemo/src/main/java/com/PGManagermentSystem/service/AdminService.java,f\1\f16c2aa0ffa7a2334c84967cfdb4fc34e4e059c4
